@@ -23,7 +23,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>  
-    Puedes escribirme [<a href="mailto:davidagamez04@gmail.com">e-mail</a>]
+    Puedes escribirme a [<a href="mailto:davidagamez04@gmail.com">e-mail</a>]
   </samp>
 </p>
 
