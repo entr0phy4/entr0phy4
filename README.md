@@ -6,9 +6,9 @@
   <p align="center">
     <samp>
       <b>
-        Hello There
+        Hola a todos!
       <br>
-        I'm DavidApril, a software engineer student
+        Soy DavidApril, estudiante de ingeniería de software
       </b>
       <br>
       <br>
@@ -23,7 +23,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>  
-    You can reach me at [<a href="mailto:davidagamez04@gmail.com">e-mail</a>]
+    Puedes escribirme [<a href="mailto:davidagamez04@gmail.com">e-mail</a>]
   </samp>
 </p>
 
