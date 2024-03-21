@@ -29,14 +29,4 @@
 
 <h2></h2><br>
 
-
-<!-- Github Trophy -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=rxyhn&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
-    </tr>
-  </table>
-</div>
-
 </div>
