@@ -8,13 +8,13 @@
       <b>
         Hola a todos!
       <br>
-        Soy DavidApril, estudiante de ingeniería de software
+        Mi nombre es David, estudiante de ingeniería de software
       </b>
       <br>
       <br>
       <br>
       <b>
-        ~ David Agámez ~
+        ~ David Agámez Cantillo ~
       </b>
     </samp>
   </p>
