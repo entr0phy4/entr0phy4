@@ -10,6 +10,8 @@
       <br>
         I'm DavidApril, a software engineer student
       </b>
+      <br>
+      <br>
       <b>
         ~ David Agámez ~
       </b>
