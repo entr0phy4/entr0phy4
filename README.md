@@ -6,15 +6,14 @@
   <p align="center">
     <samp>
       <b>
-        Hola a todos!
       <br>
-        Mi nombre es David, estudiante de ingeniería de software
+        Estudiante de ingeniería de software
       </b>
       <br>
       <br>
       <br>
       <b>
-        ~ David Agámez Cantillo ~
+        ~ David Agámez ~
       </b>
     </samp>
   </p>
