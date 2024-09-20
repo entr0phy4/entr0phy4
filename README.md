@@ -7,7 +7,7 @@
     <samp>
       <b>
       <br>
-        Estudiante de ingeniería de software
+       Software engineering student
       </b>
       <br>
       <br>
