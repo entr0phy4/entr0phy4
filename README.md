@@ -14,6 +14,5 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<h2></h2><br>
 
 </div>
