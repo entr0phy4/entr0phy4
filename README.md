@@ -1,5 +1,11 @@
 <div align="justify">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidApril&show_icons=true&hide=contribs,prs&theme=github_dark)
+ <p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+      <samp>
+         Software engineering student
+      </samp>
+    </p>
+  <p align="right"><strong><samp>」</samp></strong></p>
 
 </div>
