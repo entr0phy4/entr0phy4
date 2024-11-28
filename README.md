@@ -4,7 +4,7 @@ Hey! I'm **<a href="[https://github.com/DavidApril](https://www.linkedin.com/in/
 
 I'm a 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sacramento&size=40&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+developer;Troubleshooter;Enthusiast;Autodidact;Student;Pianist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sacramento&size=40&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+developer;Troubleshooter;Enthusiast;Autodidact;Student;Pianist;Minimalist)](https://git.io/typing-svg)
 
 from **Colombia**. 🇨🇴
 
