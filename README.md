@@ -9,7 +9,8 @@ I'm a
 from **Colombia**. 🇨🇴
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=DavidApril&theme=dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true&fire=00B8BC&background=39%2C00000000%2C00000000&stroke=EB545400&currStreakLabel=FFFFFF&ring=3A3A3A)](https://git.io/streak-stats)
+  
+  [![](https://github-readme-activity-graph.vercel.app/graph?username=DavidApril&theme=github-compact&hide_border=true&grid=false&hide_title=true&line=34d2eb)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   <p> <img src="https://komarev.com/ghpvc/?username=davidapril&label=Profile%20views&style=flat" alt="davidapril" /> </p>
-
 </div>
-
